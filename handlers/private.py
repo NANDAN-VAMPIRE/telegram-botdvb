@@ -22,10 +22,8 @@ async def start_(client: Client, message: Message):
                 [
                     InlineKeyboardButton(
                         "💕 ᴄʟᴜꜱᴛᴇʀ 💫", url=f"https://t.me/Xmen_logon")
-                ]
-                
-           ]
-        ),
-    )
+                ]           
+            ]
+        )
     
 
