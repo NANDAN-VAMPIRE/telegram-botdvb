@@ -118,18 +118,18 @@ async def play(_, message: Message):
                     invitelink = await _.export_chat_invite_link(chid)
                 except:
                     await lel.edit(
-                        "<b>👀𝘼𝘽𝙃𝙄𝙍𝘼𝙅 𝘽𝙀𝙏𝘼 𝙆𝙊 𝘼𝘿𝙈𝙄𝙉 𝘽𝘼𝙉𝘼𝙊 𝙉𝙃𝙄 𝙏𝙊 𝙏𝙀𝙍𝙄 𝙂𝘼𝙉𝘿 𝙈𝘼𝙍 𝙇𝙐𝙉𝙂𝘼🥺<b>")
+                        "<b>👀𝘼𝘿𝙈𝙄𝙉 𝘿𝙀 𝘽𝙃𝘼𝙄 𝙏𝘽 𝙋𝙇𝘼𝙔 𝙆𝘼𝙍𝙐𝙉𝙂𝘼🥺<b>")
 
                 try:
                     await USER.join_chat(invitelink)
                     await USER.send_message(
-                        message.chat.id, "**😝𝘼𝘽𝙃𝙄𝙍𝘼𝙅 𝘽𝙀𝙏𝘼 𝘼𝘼𝙋𝙆𝙀 𝙂𝙍𝙊𝙐𝙋 𝙈𝙀 𝙂𝘼𝙉𝘿 𝙈𝘼𝙍𝙑𝘼𝙉𝙀 𝙆𝙀 𝙇𝙄𝙔𝙀 𝙏𝘼𝙄𝙔𝘼𝙍 𝙃𝘼𝙄😏**")
+                        message.chat.id, "**😝𝙎𝙊𝙉𝙂 𝙋𝙇𝘼𝙔 𝙆𝘼𝙍𝙉𝙀 𝙆𝙀 𝙇𝙄𝙔𝙀 𝙍𝙀𝘼𝘿𝙔 𝙃𝘼𝙄😏**")
 
                 except UserAlreadyParticipant:
                     pass
                 except Exception:
                     await lel.edit(
-                        f"<b>❰😒ғʟᴏᴏᴅ ʜᴀɪ ʙᴇᴛᴀ😏❱</b>\n🤔ᴍᴇʀᴀ 𝘼𝘽𝙃𝙄𝙍𝘼𝙅 ʙᴇᴛᴀ ᴋᴏ ᴋᴏɪ ʙᴀɴ ᴋᴀʀ ᴅɪʏᴀ 𝙃𝘼𝙄🥺 𝙎ᴇʀᴠᴇʀ ᴜsᴋᴀ ʙᴀᴅʜ ɢʏᴀ .... ᴜsᴋᴇ ᴘᴀᴘᴀ 𝙣𝙖𝙣𝙙𝙖𝙣 ᴋᴏ ʙᴜʟᴀ ᴅɪᴊɪʏᴇ😁- ✨ [꓅꒑ꋊ ℳɄƧꂑᏣ β๏꓅](https://t.me/bhumihar_op1) ❤️🥀 :) ")
+                        f"<b>❰😒ғʟᴏᴏᴅ ʜᴀɪ ʙᴇᴛᴀ😏❱</b>\n🤔ᴍᴇʀᴀ ʙᴇᴛᴀ ᴋᴏ ᴋᴏɪ ʙᴀɴ ᴋᴀʀ ᴅɪʏᴀ 𝙃𝘼𝙄🥺 𝙎ᴇʀᴠᴇʀ ᴜsᴋᴀ ʙᴀᴅʜ ɢʏᴀ .... ᴜsᴋᴇ ᴘᴀᴘᴀ ᴋᴏ ʙᴜʟᴀ ᴅɪᴊɪʏᴇ😁- ✨ [꓅꒑ꋊ ℳɄƧꂑᏣ β๏꓅](https://t.me/bhumihar_op1) ❤️🥀 :) ")
     try:
         await USER.get_chat(chid)
     except:
@@ -162,21 +162,21 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="ᴄʜᴀɴɴᴇʟ⏫",
-                            url=f"https://t.me/THEJERRY_NETWORK")
+                            url=f"https://t.me/PARUL_X_SUPPORT")
                ],
                [
                     InlineKeyboardButton(
                             text="ᴀʙᴏᴜᴛ ᴍᴇ ⏬",
-                            url=f"https://t.me/Xmen_logon"),
+                            url=f"https://t.me/PARUL_X_SUPPORT"),
                             
                     InlineKeyboardButton(
-                            text="xᴍᴇɴ🔄",
-                            url=f"https://t.me/THEJERRY_NETWORK")
+                            text="𝙉𝙖𝙣𝙙𝙖𝙣 𝙤𝙥🔄",
+                            url=f"https://t.me/bhumihar_op1")
                ],
                [
                         InlineKeyboardButton(
-                            text="ᴄʟᴜsᴛᴇʀ⏹",
-                            url=f"https://t.me/TheJerrySupport")
+                            text="𝙉𝘼𝙉𝘿𝘼𝙉⏹",
+                            url=f"https://t.me/bhumihar_op1")
                    
                 ]
             ]
@@ -215,21 +215,21 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="ᴄʜᴀɴɴᴇʟ⏫",
-                            url=f"https://t.me/THEJERRY_NETWORK")
+                            url=f"https://t.me/parul_x_support")
                ],
                [
                     InlineKeyboardButton(
                             text="ᴀʙᴏᴜᴛ ᴍᴇ ⏬",
-                            url=f"https://t.me/Xmen_logon"),
+                            url=f"https://t.me/parul_x_support"),
                             
                     InlineKeyboardButton(
-                            text="xᴍᴇɴ🔄",
-                            url=f"https://t.me/THEJERRY_NETWORK")
+                            text="𝙉𝙖𝙣𝙙𝙖𝙣 𝙤𝙥🔄",
+                            url=f"https://t.me/bhumihar_op1")
                ],
                [
                         InlineKeyboardButton(
-                            text="ᴄʟᴜsᴛᴇʀ⏹",
-                            url=f"https://t.me/TheJerrySupport")
+                            text="𝙉𝘼𝙉𝘿𝘼𝙉⏹",
+                            url=f"https://t.me/bhumihar_op1")
                    
                 ]
             ]
@@ -245,21 +245,21 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="ᴄʜᴀɴɴᴇʟ⏫",
-                            url=f"https://t.me/THEJERRY_NETWORK")
+                            url=f"https://t.me/parul_x_support")
                ],
                [
                     InlineKeyboardButton(
                             text="ᴀʙᴏᴜᴛ ᴍᴇ ⏬",
-                            url=f"https://t.me/Xmen_logon"),
+                            url=f"https://t.me/parul_x_support"),
                             
                     InlineKeyboardButton(
-                            text="xᴍᴇɴ🔄",
-                            url=f"https://t.me/THEJERRY_NETWORK")
+                            text="𝙉𝙖𝙣𝙙𝙖𝙣 𝙤𝙥🔄",
+                            url=f"https://t.me/BHUMIHAR_OP1")
                ],
                [
                         InlineKeyboardButton(
-                            text="ᴄʟᴜsᴛᴇʀ⏹",
-                            url=f"https://t.me/TheJerrySupport")
+                            text="𝙉𝙖𝙣𝙙𝙖𝙣⏹",
+                            url=f"https://t.me/bhumihar_op1")
                    
                 ]
             ]
@@ -313,21 +313,21 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="ᴄʜᴀɴɴᴇʟ⏫",
-                            url=f"https://t.me/THEJERRY_NETWORK")
+                            url=f"https://t.me/parul_x_support")
                ],
                [
                     InlineKeyboardButton(
                             text="ᴀʙᴏᴜᴛ ᴍᴇ ⏬",
-                            url=f"https://t.me/Xmen_logon"),
+                            url=f"https://t.me/parul_x_support"),
                             
                     InlineKeyboardButton(
-                            text="xᴍᴇɴ🔄",
-                            url=f"https://t.me/THEJERRY_NETWORK")
+                            text="𝙉𝙖𝙣𝙙𝙖𝙣 𝙤𝙥🔄",
+                            url=f"https://t.me/bhumihar_op1")
                ],
                [
                         InlineKeyboardButton(
-                            text="ᴄʟᴜsᴛᴇʀ⏹",
-                            url=f"https://t.me/TheJerrySupport")
+                            text="𝙉𝘼𝙉𝘿𝘼𝙉⏹",
+                            url=f"https://t.me/bhumihar_op1")
                    
                 ]
             ]
